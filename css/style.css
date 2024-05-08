@@ -38,7 +38,7 @@ span.white {
 header {
     position: fixed;
     width: 100%;
-    height: 10vh;
+    height: 50px;
     z-index: 1000;
     top: 0px;
     left: 0;
@@ -61,6 +61,11 @@ span.hLinks, span.names, span.white {
 }
   
 /* structure */
+
+main {
+    width: 100%;
+    height: calc(100vh -150px);
+}
 
 .container {
     margin-top: 150px;
@@ -107,7 +112,7 @@ footer {
     align-items: center;
     position: fixed;
     width: 100%;
-    height: 10vh;
+    height: 100px;
     z-index: 1000;
     bottom: 0px;
     left: 0;
