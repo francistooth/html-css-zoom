@@ -96,7 +96,7 @@ span.hLinks, span.names, span.white {
     position: absolute;
     bottom: 15px;
     left: 0;
-    
+    opacity: 0.4;   
 }
 
 /* footer rules */
